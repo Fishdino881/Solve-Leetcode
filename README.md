@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fishdino881/Solve-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Fishdino881/Solve-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Fishdino881/Solve-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fishdino881/Solve-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fishdino881/Solve-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Fishdino881/Solve-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fishdino881/Solve-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Fishdino881/Solve-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Fishdino881/Solve-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->

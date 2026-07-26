@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Fishdino881/Solve-Leetcode/tree/master/0038-count-and-say) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fishdino881/Solve-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Fishdino881/Solve-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack

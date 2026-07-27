@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Fishdino881/Solve-Leetcode/tree/master/0038-count-and-say) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fishdino881/Solve-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Fishdino881/Solve-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Fishdino881/Solve-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Fishdino881/Solve-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Fishdino881/Solve-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Fishdino881/Solve-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
